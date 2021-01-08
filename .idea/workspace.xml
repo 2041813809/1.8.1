@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d462aee8-ef25-4cec-b12e-870b573b3bad" name="Default Changelist" comment="" />
+    <list default="true" id="d462aee8-ef25-4cec-b12e-870b573b3bad" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mian.go" beforeDir="false" afterPath="$PROJECT_DIR$/mian.go" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,17 +17,12 @@
       </list>
     </option>
   </component>
-  <component name="GOROOT" path="D:/Program Files/Go" />
+  <component name="GOROOT" path="C:\Go" />
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-4" />
-    <option name="y" value="2" />
-    <option name="width" value="1934" />
-    <option name="height" value="693" />
-  </component>
   <component name="ProjectId" id="1mlhEtCTv74jvnHVn7O8XNXQ6ai" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -43,5 +41,11 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="74" key="#GOROOT" timestamp="1610076881554">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="74" key="#GOROOT/0.0.1536.824@0.0.1536.824" timestamp="1610076881554" />
   </component>
 </project>
